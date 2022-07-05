@@ -4,4 +4,5 @@ factorial_of_Number
 fibonacciSeries_of_number
 Reverse_Number
 Reverse_String
+Number_palindrome
 String_Palindrome
